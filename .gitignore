@@ -1,0 +1,23 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the `go tool` command
+*.out
+
+# Dependency directories (when using Go modules)
+vendor/
+
+# IDE or editor-specific files
+.idea/
+*.swp
+*.swo
+*.vscode/
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
